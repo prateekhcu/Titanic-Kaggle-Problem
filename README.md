@@ -42,15 +42,15 @@
 
 #### Machine Learning models used
 
-1)Random Forest.
+1) Random Forest.
 
-2)Logistic Regression.
+2) Logistic Regression.
 
-3)K Nearest Neighbor.
+3) K Nearest Neighbor.
 
-4)Linear Support Vector Machine Decision Tree.
+4) Linear Support Vector Machine Decision Tree.
 
-5)Machine Learning Models.
+5) Machine Learning Models.
 
 <hr>
       
