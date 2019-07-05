@@ -38,7 +38,7 @@
 
 
       
-####Summary
+#### Summary
  
 1) The data exploration where we got a feeling for the dataset, checked about missing data and learned which features are important.
 2) Seaborn and matplotlib to do the visualizations.
