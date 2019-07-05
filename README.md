@@ -21,9 +21,7 @@
 #### Converting Features
 
 1)‘Fare’ is a float and we have to deal with 4 categorical features: Name, Sex, Ticket and Embarked.
-
 2)Name feature to extract the Titles from the Name, so that we can build a new feature out of that.
-
 3)Convert ‘Sex’ feature into numeric.
 4)Drop the Ticket feature it will be a bit tricky to convert them into useful categories.
 5)Convert ‘Embarked’ feature into numeric.
