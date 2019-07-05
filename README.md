@@ -9,7 +9,7 @@
 4) Spot some more features, that contain missing values (NaN = not a number), that we need to deal with.
 5) Split the data into training and test set in which 80% data training set and 20% data test set ratio.
 
-
+<hr>
 
 #### Data Preprocessing
 
