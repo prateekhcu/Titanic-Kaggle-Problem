@@ -26,7 +26,7 @@
 4)Drop the Ticket feature it will be a bit tricky to convert them into useful categories.
 5)Convert ‘Embarked’ feature into numeric.
 6)The ‘Fare’ feature first we will convert it from float into integer.
- 
+ <hr>
 
 #### Machine Learning models used
 
@@ -36,7 +36,7 @@
 4)Linear Support Vector Machine Decision Tree.
 5)Machine Learning Models.
 
-
+<hr>
       
 #### Summary
  
