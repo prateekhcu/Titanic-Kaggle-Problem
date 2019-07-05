@@ -43,4 +43,5 @@
 1) The data exploration where we got a feeling for the dataset, checked about missing data and learned which features are important.
 2) Seaborn and matplotlib to do the visualizations.
 3) Data preprocessing part, we computed missing values, converted features into numeric ones, grouped values into categories and created a few new features.
-4) Lastly, we looked at it’s confusion matrix and computed the models precision, recall and f1-score.
+4) different machine learning models, applied cross validation on it.
+5) Lastly, we looked at it’s confusion matrix and computed the models precision, recall and f1-score.
